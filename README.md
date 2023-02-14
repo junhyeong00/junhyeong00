@@ -1,6 +1,13 @@
 <h2> Developer 배준형! 👋</h2>
 
-아직은 모든 게 어렵게 느껴지지만, 열심히 해서 가치있는 개발자가 되고 싶습니다!
+매일 조금씩 성장하는걸 목표로 하는 개발자 배준형입니다!
+<br>
+공유와 기록의 중요성을 잘 알기에 항상 글로 남기고 회고 및 실천하려고 노력합니다.
+
+- 📬 jhbae0420@naver.com
+- 📝 [블로그](https://velog.io/@jhbae0420)
+
+
 <!--
 **junhyeong00/junhyeong00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
